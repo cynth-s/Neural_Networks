@@ -26,7 +26,7 @@
   
 # The backbone
 1) Consists of <i>N</i> blocks. The basic implementation for each block B<sub>i</sub> consists of two MLPs.
-2) The first MLP 
+2) The first MLP is: O<sub>1</sub> = g(X <sup>
 
 
 
