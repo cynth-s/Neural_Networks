@@ -7,8 +7,8 @@
 2) Classify every image in terms of 1 out of 10 classes 
 3) Standard tasks for lectures and labs
 4) Build a model on training set and evaluate on test 
-
 <img src='images/fashion_mnist.jpg'>
+
 # Overview of model
 1) An architecture to process images based on MLPs.
 2) Model architecture consists of Stem, backbone, classifier 
