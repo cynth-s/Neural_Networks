@@ -1,4 +1,4 @@
-# ECS659U/P Coursework
+
 
 # The problem :
 1) Fashion-MNIST classification 
